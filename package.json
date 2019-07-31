@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-colscott",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ESLint ESLintConfig",
   "main": "index.js",
   "scripts": {
